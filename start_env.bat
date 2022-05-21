@@ -1,0 +1,1 @@
+start .\env\scripts\activate
